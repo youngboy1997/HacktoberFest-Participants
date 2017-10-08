@@ -1,13 +1,13 @@
 # HacktoberFest-Participants
 This is a Census for all the people who are participating in HacktoberFest. An easy entry!
 
-All what you have to do is to enter your username + (link to your GitHub profile) under Census and make a pull request. That's it! You've got an entry. Simple as that.
+All what you have to do is to fork this project, enter your username + (link to your GitHub profile) under Census and make a pull request. That's it! You've got an entry. Simple as that.
 
-###Contributing
+### Contributing
 It should be in the format like shown below:
 
 ```markdown
 [sanjulamadurapperuma](https://github.com/sanjulamadurapperuma)
 ```
 
-###Census
+### Census
