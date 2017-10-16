@@ -7,12 +7,12 @@ All what you have to do is to fork this project, enter your username + (link to 
 It should be in the format like shown below:
 
 ```markdown
- - [sanjulamadurapperuma](https://github.com/sanjulamadurapperuma)
+  - [sanjulamadurapperuma](https://github.com/sanjulamadurapperuma)
 ```
 
 ### Census
 ```markdown
- - [JonathanFilbert](https://github.com/jonathanfilbert)
- - [netsudo](https://github.com/netsudo)
+  - [JonathanFilbert](https://github.com/jonathanfilbert)
+  - [netsudo](https://github.com/netsudo)
 
 ```
