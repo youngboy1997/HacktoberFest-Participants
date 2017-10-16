@@ -6,13 +6,11 @@ All what you have to do is to fork this project, enter your username + (link to 
 ### Contributing
 It should be in the format like shown below:
 
-```markdown
   - [sanjulamadurapperuma](https://github.com/sanjulamadurapperuma)
-```
 
 ### Census
-```markdown
+
   - [JonathanFilbert](https://github.com/jonathanfilbert)
   - [netsudo](https://github.com/netsudo)
 
-```
+
